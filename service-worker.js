@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.638e1169d03f13d9d40210c1e5f9de6e.js"
+  "/precache-manifest.c2c6a1205cb085d57e7bcd614b135895.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "houtiapp"});
